@@ -23,9 +23,7 @@
             android:resource="@array/preloaded_fonts" />
 
         <activity android:name=".MainActivity" />
-        <activity android:name=".NewsLinks">
-
-        </activity>
+        <activity android:name=".RecyclerActivity"></activity>
     </application>
 
 </manifest>

@@ -16,5 +16,7 @@
     <string name="login1">Login</string>
     <string name="prothomalo">ProthomAlo</string>
     <string name="imaged">imaged</string>
+    <string name="prothom_alo">Prothom Alo</string>
+    <string name="todo1">TODO</string>
 
 </resources>
