@@ -17,7 +17,11 @@ public class RecyclerActivity extends AppCompatActivity {
                     "Protom Alo", "Somokal",
                     "Somoy", "Janakontho",
                     "Daily Star", "BBC Bangla",
-                    "BD News 24", "BD News"
+                    "BD News 24", "BD News",
+                    "BD Protidin", "Jayjay Din",
+                    "Jugantor", "Manobkontho",
+                    "NoyaDigonto", "Somoyerkonthosor",
+                    "Timenewsbd", "ICT News"
             };
 
     private int iconId[]=
@@ -25,7 +29,11 @@ public class RecyclerActivity extends AppCompatActivity {
                     R.drawable.prothomalo, R.drawable.somokal,
                     R.drawable.somoy, R.drawable.ejanakantha,
                     R.drawable.dailystar, R.drawable.bbcbangla,
-                    R.drawable.bdnews, R.drawable.bngnews
+                    R.drawable.bdnews, R.drawable.bngnews,
+                    R.drawable.bangladeshpratidin, R.drawable.jayjaydin,
+                    R.drawable.jugantor, R.drawable.manobkontho,
+                    R.drawable.noya, R.drawable.somoyerkontho,
+                    R.drawable.timenewsbd, R.drawable.ictnews,
             };
 
     @Override
